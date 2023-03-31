@@ -1,1 +1,1 @@
-My ALX repository of the C programming language.
+Repository for ALX C programming language projects
